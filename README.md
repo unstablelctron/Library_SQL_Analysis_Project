@@ -1,7 +1,5 @@
 📚 Library Management System using SQL (Project – P2)
 
-![Uploading library.jpg…]()
-
 📌 Project Overview
 
 Project Title: Library Management System
